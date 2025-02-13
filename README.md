@@ -136,6 +136,9 @@
 - 4 Weeks Lover
 - Ten Count
 - Kiraide Isasete
+- Regas
+- Don't Cry Sunbae!
+- Ballboy Tactics
 
 
 <!--
