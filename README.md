@@ -11,7 +11,7 @@
 - (PJsekai) Project Sekai
 - (CRK) Cookie Run Kingdom
 - (CRO) Cookie Run Ovenbreak
-- (SkyCOTL) Sky Children Of The 𝙇𝙞𝙜𝙝𝙩
+- (SkyCOTL) Sky Children Of The Light
 - (CWG) Cooking Wonderland Global
 - Lunime Games
 - Minecraft
@@ -19,7 +19,15 @@
 - Stardew Valley
 - CDO2
 - (MLBB) Mobile Legends Bang Bang
-   
+  ‎ ‎ 
+ ✦
+  
+𝙂𝙊𝘼𝙏𝙎 ( 𝙄 𝙇𝙊𝙑𝙀 )
+- (LOTM) Lord Of The Mysteries (Action,Fantasy) • Almost done w/ book1
+- (ORV) Omniscient Reader's Viewpoint (Action) • Finished
+- NETKAMA PUNCH!!! (BL) • Finished
+- The Boy And The Wolf (Action,BL) • Reading
+ 
  ✦
   
 𝙁𝘼𝙉𝘿𝙊𝙈𝙎 / 𝙏𝙃𝙄𝙉𝙂𝙎
@@ -92,14 +100,6 @@
    
  ✦
   
-𝙂𝙊𝘼𝙏𝙎 ( 𝙄 𝙇𝙊𝙑𝙀 )
-- (LOTM) Lord Of The Mysteries (Action,Fantasy) • Almost done w/ book1
-- (ORV) Omniscient Reader's Viewpoint (Action) • Finished
-- NETKAMA PUNCH!!! (BL) • Finished
-- The Boy And The Wolf (Action,BL) • Reading
- 
- ✦
-  
 𝘿𝘼𝙉𝙈𝙀𝙄𝙎
 - (SVSS) Scum Villai's Self-Saving System
 - (TGCF) Heaven Official's Blessing
@@ -139,6 +139,7 @@
 - Regas
 - Don't Cry Sunbae!
 - Ballboy Tactics
+- Stalker's Game (By Tan)
 
 
 <!--
