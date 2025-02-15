@@ -19,9 +19,9 @@
 - Stardew Valley
 - CDO2
 - (MLBB) Mobile Legends Bang Bang
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  
-✦
-  
+
+ ✦
+ 
 𝙂𝙊𝘼𝙏𝙎 ( 𝙄 𝙇𝙊𝙑𝙀 )
 - (LOTM) Lord Of The Mysteries (Action,Fantasy) • Almost done w/ book1
 - (ORV) Omniscient Reader's Viewpoint (Action) • Finished
