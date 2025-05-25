@@ -24,10 +24,9 @@
  ✦
  
 𝙂𝙊𝘼𝙏𝙎 ( 𝙄 𝙇𝙊𝙑𝙀 )
-- (LOTM) Lord Of The Mysteries (Action,Fantasy) • Almost done w/ book1
-- (ORV) Omniscient Reader's Viewpoint (Action) • Finished
-- NETKAMA PUNCH!!! (BL) • Finished
-- The Boy And The Wolf (Action,BL) • Reading
+- (LOTM) Lord Of The Mysteries • Almost done w/ book1
+- (ORV) Omniscient Reader's Viewpoint • Finished
+- NETKAMA PUNCH!!! • Finished
  
  ✦
   
@@ -98,6 +97,7 @@
 - Doom Breaker
 - Teenage Mercenary
 - The Dungeon Cleaning Life Of A Once Genius Hunter
+- The Boy And The Wolf
    
  ✦
   
